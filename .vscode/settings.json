@@ -1,0 +1,23 @@
+{
+    // ---------------- files settings ----------------
+    "files.autoSave": "afterDelay",
+    
+    // ---------------- editor settings ----------------
+    "editor.fontFamily": "Cascadia Code PL SemiBold",
+    "editor.fontWeight": "bold",
+    "editor.fontVariations": true, 
+    "editor.fontLigatures": true,
+    "editor.fontSize": 17,
+
+    // ---------------- cursor settings ---------------- 
+    "editor.cursorWidth": 3,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    // ---------------- terminal settings ---------------- 
+    "terminal.integrated.fontFamily": "Cascadia Code PL SemiBold",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontSize": 14,
+    "python.analysis.typeCheckingMode": "basic"
+} 
